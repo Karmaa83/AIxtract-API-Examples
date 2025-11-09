@@ -1,4 +1,5 @@
 ## 🚀 Extract Any Data from PDFs Using AI — Invoices, Tables & More with AIxtract API
+[![Try on RapidAPI](https://img.shields.io/badge/Try%20on-RapidAPI-blue)](https://rapidapi.com/rayanhachanipro/api/ai-pdf-data-extractor-extract-invoices-tables-more1)
 
 If you've ever tried to extract data from invoices, receipts, or bank statements in PDF format, you know how painful it is.
 
@@ -147,3 +148,4 @@ If your workflow involves invoices, statements, or receipts, give AIxtract a try
 - 🚀 **Try it free today** → https://aixtract.xyz
 - 📡 **API on RapidAPI** → [AI PDF Data Extractor](https://rapidapi.com/rayanhachanipro/api/ai-pdf-data-extractor-extract-invoices-tables-more1)
 - 🧠 **Docs** → https://api.aixtract.xyz/docs
+
