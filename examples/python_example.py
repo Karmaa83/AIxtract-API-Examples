@@ -7,7 +7,7 @@ Powered by Claude AI + FastAPI
 import requests
 
 # === Configuration ===
-API_URL = "https://aixtract2.p.rapidapi.com/extract"
+API_URL = "https://ai-pdf-data-extractor-extract-invoices-tables-more1.p.rapidapi.com/extract"
 RAPIDAPI_KEY = "YOUR_RAPIDAPI_KEY"  # Replace with your RapidAPI key
 RAPIDAPI_HOST = "aixtract2.p.rapidapi.com"
 
