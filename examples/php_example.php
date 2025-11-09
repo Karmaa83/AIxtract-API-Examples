@@ -4,7 +4,7 @@
  * Extract structured data from PDFs using AI.
  */
 
-$api_url = "https://aixtract2.p.rapidapi.com/extract";
+$api_url = "https://ai-pdf-data-extractor-extract-invoices-tables-more1.p.rapidapi.com/extract";
 $api_key = "YOUR_RAPIDAPI_KEY"; // Replace with your key
 $api_host = "aixtract2.p.rapidapi.com";
 $file_path = "invoice.pdf";
