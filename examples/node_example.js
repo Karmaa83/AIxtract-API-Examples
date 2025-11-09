@@ -9,7 +9,7 @@ import FormData from "form-data";
 import fs from "fs";
 
 // === Configuration ===
-const API_URL = "https://aixtract2.p.rapidapi.com/extract";
+const API_URL = "https://ai-pdf-data-extractor-extract-invoices-tables-more1.p.rapidapi.com/extract";
 const RAPIDAPI_KEY = "YOUR_RAPIDAPI_KEY"; // Replace with your key
 const RAPIDAPI_HOST = "aixtract2.p.rapidapi.com";
 const FILE_PATH = "./invoice.pdf";
